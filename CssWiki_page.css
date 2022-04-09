@@ -1,0 +1,34 @@
+
+  
+  body {
+    /* background-color: aquamarine; */
+    text-align: right;
+  }
+  h1 {
+    text-align: right;
+    width: 85%;
+    /* padding: 4rem; */
+  }
+  img {
+    padding-right: 50px;
+    padding-top: 15px;
+  }
+  /* .aaa {
+    text-align: center;
+  } */
+  .background_blue {
+    background-color: #b0c4de;
+    text-align: center;
+  }
+  .center1 {
+    text-align: center;
+  }
+  td {
+    margin: 200px;
+    padding: 10px;
+  }
+  .table_1 {
+    background-color: #f9f9f9;
+    border: 1px solid #aaaaaa;
+
+  }
