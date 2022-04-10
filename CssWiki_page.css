@@ -1,9 +1,12 @@
+* {
 
+}
   
   body {
     /* background-color: aquamarine; */
     text-align: right;
-  }
+    padding: 15px  200px;
+    font-family: sans-serif;  }
   h1 {
     text-align: right;
     width: 85%;
@@ -30,5 +33,16 @@
   .table_1 {
     background-color: #f9f9f9;
     border: 1px solid #aaaaaa;
+  }
+  a {
+    text-decoration: none;
 
   }
+  a:hover {
+    text-decoration: pointer;
+    text-decoration: underline;
+  }
+  #table_11{
+text-align: right;
+  }
+  
