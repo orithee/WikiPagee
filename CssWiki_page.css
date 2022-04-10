@@ -9,7 +9,7 @@
     font-family: sans-serif;  }
   h1 {
     text-align: right;
-    width: 85%;
+    width: 100%;
     /* padding: 4rem; */
   }
   img {
@@ -44,5 +44,7 @@
   }
   #table_11{
 text-align: right;
+position: absolute;
+  right: 220px;
   }
   
