@@ -5,7 +5,7 @@
   body {
     /* background-color: aquamarine; */
     text-align: right;
-    padding: 15px  200px;
+    padding: 15px  50px;
     font-family: sans-serif;  }
   h1 {
     text-align: right;
@@ -28,11 +28,14 @@
   }
   td {
     margin: 200px;
-    padding: 10px;
+    padding: 5px;
   }
   .table_1 {
     background-color: #f9f9f9;
     border: 1px solid #aaaaaa;
+  }
+  .table_picture {
+    width: 85%;
   }
   a {
     text-decoration: none;
@@ -44,8 +47,11 @@
   }
   #table_11{
 text-align: right;
-position: absolute;
-  right: 220px;
-  text-align: right;
   }
-  
+  li {
+    padding: 5px
+  }
+  .Change_font-family {
+    font-family: David,serif;
+    font-size: 120%;
+  }
