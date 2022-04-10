@@ -17,6 +17,7 @@
   .background_blue {
     background-color: #b0c4de;
     text-align: center;
+    margin: 0px;
   }
   .center1 {
     text-align: center;
@@ -51,3 +52,7 @@
     font-family: David,serif;
     font-size: 120%;
   }
+  th {
+    text-align: center;
+  }
+  
